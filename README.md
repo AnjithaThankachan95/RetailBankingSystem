@@ -33,7 +33,7 @@ This is an **open-source Retail Banking System** that allows users to:
 ## 🏗 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/RetailBankingSystem.git
+git clone https://github.com/AnjithaThankachan95/RetailBankingSystem.git
 cd RetailBankingSystem
 ```
 
